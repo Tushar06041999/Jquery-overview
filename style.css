@@ -2,3 +2,7 @@
     color:gold;
     padding:5px;
 }
+.container{
+    /* display:none; */
+    background-color: burlywood;
+}
